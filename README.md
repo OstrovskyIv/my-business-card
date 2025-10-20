@@ -28,4 +28,4 @@ The source code is organized with clear comment blocks to easily identify and na
 
 ---
 
-*Last updated: [Current Date]*
+*Last updated: [20.10.2025]*
